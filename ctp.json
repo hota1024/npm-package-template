@@ -3,7 +3,10 @@
     "name",
     "description",
     "repository",
-    "license"
+    {
+      "name": "license",
+      "default": "MIT"
+    }
   ],
   "replaces": ["**/*.ts", "package.json", "README.md"]
 }
