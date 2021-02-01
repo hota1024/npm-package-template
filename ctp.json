@@ -1,0 +1,9 @@
+{
+  "inputs": [
+    "name",
+    "description",
+    "repository",
+    "license"
+  ],
+  "replaces": ["**/*.ts", "package.json", "README.md"]
+}

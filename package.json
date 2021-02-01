@@ -1,11 +1,11 @@
 {
-  "name": "{packageName}",
+  "name": "{name.paramCase}",
   "version": "0.0.0",
   "license": "{license}",
   "description": "{description}",
   "repository": {
     "type": "git",
-    "url": "{repositoryUrl}"
+    "url": "{repository}"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
