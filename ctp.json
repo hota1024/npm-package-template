@@ -8,5 +8,8 @@
       "default": "MIT"
     }
   ],
-  "replaces": ["**/*.ts", "package.json", "README.md"]
+  "replaces": ["**/*.ts", "package.json", "README.md"],
+  "hooks": {
+    "created": "yarn"
+  }
 }
