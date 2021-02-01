@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"strict": true,
 		"target": "es2017",
-		"module": "esnext",
+		"module": "CommonJS",
 		"declaration": true,
 		"alwaysStrict": true,
 		"allowSyntheticDefaultImports": true,
