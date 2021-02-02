@@ -10,6 +10,6 @@
   ],
   "replaces": ["**/*.ts", "package.json", "README.md"],
   "hooks": {
-    "created": "yarn"
+    "created": ["yarn", "git init"]
   }
 }
