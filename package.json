@@ -1,5 +1,5 @@
 {
-  "name": "{name.param}",
+  "name": "name.param",
   "version": "0.0.0",
   "license": "{license}",
   "description": "{description}",
@@ -53,5 +53,8 @@
     "moduleNameMapper": {
       "^@/(.+)": "<rootDir>/src/$1"
     }
+  },
+  "dependencies": {
+    "tsconfig-paths": "^3.10.1"
   }
 }
